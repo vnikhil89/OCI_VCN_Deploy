@@ -1,0 +1,9 @@
+variable "tenancy_ocid" {}
+variable "user_ocid" {}
+variable "fingerprint" {}
+variable "private_key_path" {}
+variable "compartment_ocid" {}
+variable "region" {}
+variable "vcn_dns_label" {}
+variable "vcn_cidr" {}
+variable "subnet_dns_label" {}
